@@ -1,6 +1,6 @@
 # Hi, I'm Raghavendra 👋
 
-B.Tech graduate in Electrical and Electronics Engineering, aspiring **Application Support Engineer**.
+B.Tech graduate in Electrical and Electronics Engineering, with one year Experience in an **Application Support role**.
 
 ## Currently learning
 - MySQL (queries, joins, indexes, transactions)
